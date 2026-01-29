@@ -45,10 +45,9 @@ Aplicadas tanto a **diseño de soluciones**, exploración técnica como optimiza
 ## 📊 Estadísticas de GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lpalacios1&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lpalacios1&layout=compact&langs_count=8&theme=tokyonight&count_private=true&hide_border=true"/>
+  <img height="180em" src="./profile/stats.svg" />
+  <img height="180em" src="./profile/top-langs.svg" />
 </div>
-
 ## 🎓 Educación
 
 **Ingeniería Civil Industrial**  
