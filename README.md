@@ -1,6 +1,6 @@
 
 <div align="center">  
-  <img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/414c8b40-0b25-4ffe-8380-cbdffe1aa76f" />
+  <img width="512" height="768" alt="image" src="https://github.com/user-attachments/assets/414c8b40-0b25-4ffe-8380-cbdffe1aa76f" />
 
   
   # ¡Hola! Soy Lucas Palacios Kantor 👋
