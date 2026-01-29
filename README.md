@@ -1,6 +1,7 @@
 
 <div align="center">  
-  <img width="480" height="480" alt="image" src="https://github.com/user-attachments/assets/d7eb3d15-5271-4024-8315-951206ca64b1" />
+  <img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/414c8b40-0b25-4ffe-8380-cbdffe1aa76f" />
+
   
   # ¡Hola! Soy Lucas Palacios Kantor 👋
   ### Software Engineer from Chile 🇨🇱
@@ -13,7 +14,7 @@
 ## 👨‍💻 Sobre mí
 
 Software Engineer con enfoque en construir **soluciones óptimas, escalables y sostenibles en el tiempo**, entendiendo profundamente el problema de negocio y trabajando en conjunto con producto.  
-Me apasiona el deporte, los videojuegos, el gimnasio y compartir con mi familia y amigos. Disfruto ir más allá de solo programar: **diseñar soluciones creativas alineadas a lo que realmente necesitan los clientes**.
+Me apasiona el deporte, los videojuegos, onepiece, el gimnasio y compartir con mi familia y amigos. Disfruto ir más allá de solo programar: **diseñar soluciones creativas alineadas a lo que realmente necesitan los clientes**.
 
 - 🔭 Actualmente trabajando como **Semi-Senior Software Engineer en Buk**
 - 🧠 Especializado en **ingeniería de software end-to-end**, desde el diseño hasta la implementación
@@ -30,6 +31,39 @@ Me apasiona el deporte, los videojuegos, el gimnasio y compartir con mi familia 
 - Enfoque en diseño técnico considerando impacto, escalabilidad y expectativas del negocio
 - Trabajo cercano con producto para traducir requerimientos en soluciones técnicas claras
 - Uso activo de herramientas de IA para acelerar desarrollo y mejorar calidad
+
+---
+
+**Junior Software Engineer**  
+**Buda.com** – Jornada completa  
+Providencia, Región Metropolitana de Santiago, Chile (Híbrido)
+
+- Desarrollo de soluciones backend y frontend en sistemas productivos
+- Colaboración con equipos multidisciplinarios en entornos de alta exigencia
+- Enfoque en calidad de código, mantenibilidad y buenas prácticas de ingeniería
+
+---
+
+**Software Engineer (Freelance)**  
+**Noosa** – Plataforma de Automatización de Diagnósticos
+
+- Mantenimiento, monitoreo y mejora continua de la plataforma de diagnósticos
+- Corrección de bugs, optimización de flujos existentes y fortalecimiento de estabilidad
+- Continuación del trabajo realizado durante la práctica universitaria, con mayor responsabilidad técnica
+- Trabajo remoto y autónomo, enfocado en soluciones prácticas y sostenibles
+
+**Tecnologías:** PostgreSQL, DataGrip, JavaScript
+
+---
+
+**Practicante Universitario**  
+**Noosa** – Plataforma de Automatización de Diagnósticos
+
+- Desarrollo inicial de la plataforma de diagnósticos durante la práctica
+- Implementación de funcionalidades clave y soporte a bases de datos
+- Base técnica que luego evolucionó a rol freelance
+
+**Tecnologías:** PostgreSQL, JavaScript
 
 ## 🤖 IA en Desarrollo
 
