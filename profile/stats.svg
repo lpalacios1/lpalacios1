@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Lucas Palacios Kantor's GitHub Stats, Rank: B+</title>
-        <desc id="descId">Total Stars Earned: 1, Total Commits  (last year) : 1293, Total PRs: 791, Total Issues: 14, Contributed to (last year): 6</desc>
+        <desc id="descId">Total Stars Earned: 1, Total Commits  (last year) : 1297, Total PRs: 812, Total Issues: 14, Contributed to (last year): 6</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 110.5924046190635;
+        stroke-dashoffset: 110.57931580969344;
       }
     }
   
@@ -192,7 +192,7 @@
         x="219.01"
         y="12.5"
         data-testid="prs"
-      >791</text>
+      >812</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
